@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I am is Demos Alexas (Matheus)</h2>
+<h2 align="left">Hi 👋! I am Demos Alexas (Matheus)</h2>
 
 ###
 
