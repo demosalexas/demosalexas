@@ -1,8 +1,4 @@
-
-
-const SvgComponent = (props) => {
-
-
+const SvgComponent = (props: any) => {
 
   return (
     <svg
