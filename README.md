@@ -181,9 +181,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/demosalexas/demosalexas/output/snake.svg" alt="Snake animation" />
-
-###
