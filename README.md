@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! I am Demos Alexas (Matheus)</h2>
+
+<h2 align="left">Hi 👋! I am Demos Alexas</h2>
 
 ###
 
@@ -179,5 +180,3 @@
   <img src="https://img.shields.io/static/v1?message=Codesandbox&logo=codesandbox&label=&color=040404&logoColor=DBDBDB&labelColor=&style=for-the-badge" height="35" alt="codesandbox logo"  />
   <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
 </div>
-
-###
